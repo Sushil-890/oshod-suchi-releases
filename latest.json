@@ -1,11 +1,11 @@
 {
-  "version": "0.1.13",
-  "notes": "Oshod Suchi version 0.1.13 release updates.",
-  "pub_date": "2026-09-13T09:36:28Z",
+  "version": "0.1.14",
+  "notes": "Oshod Suchi version 0.1.14 release updates.",
+  "pub_date": "2026-09-17T17:02:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScW5XZXpRK2VXaUlCcVpydW5qVG1XUG55enJVNjhxUGUwV1FoR3JPeDdyRUM3Z2hVSkV3bmU2V1NnZ1JFMVR2R1B5akpqajhVc2cyd21DeXM0SzNjdE96S3dKY0lFekFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjkyMTc5CWZpbGU6b3Nob2Qtc3VjaGlfMC4xLjEzX3g2NC1zZXR1cC5leGUKU0JIRzREWWtyV2Y4ZVE4TDBJL2F2ck9MQk5uZWZyVGlDeFphZUZiQ2hFWENhbXE2YjVITE8xMW9mN1ZOYmtydzFCeDRBUFV2MFJmL3dNU25NV00zQmc9PQo=",
-      "url": "https://github.com/Sushil-890/oshod-suchi-releases/releases/download/v0.1.13/oshod-suchi_0.1.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScW5XZXpRK2VXaUVPZVd0YnBTdnloR3dEVmNLNHR2enlvTnBmY3V4MWJEZGFIeHY2RnF5aVFJaVVXZnR4SWluQkNkWm1ueGc4OVVyNlhyM2doOGlUZDA0d2ZtQzBIa0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY0MjIzCWZpbGU6b3Nob2Qtc3VjaGlfMC4xLjE0X3g2NC1zZXR1cC5leGUKT3Zxc0ZZUGhhUDkxb2ptMXVJQmt2eWNQQUZ0Um1oMmYvTTlkNmV5YkZDNG9CWUNHOWlRUHp4bnAxaWlySkl6S1h4WWhyOWpzajlDYkQ3WXpNd2x4QkE9PQo=",
+      "url": "https://github.com/Sushil-890/oshod-suchi-releases/releases/download/v0.1.14/oshod-suchi_0.1.14_x64-setup.exe"
     }
   }
 }
